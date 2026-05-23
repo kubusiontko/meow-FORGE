@@ -1,0 +1,10 @@
+{
+  "mojdzwiek": {
+    "sounds": [
+      {
+        "name": "meowing:meow4",
+        "stream": true
+      }
+    ]
+  }
+}

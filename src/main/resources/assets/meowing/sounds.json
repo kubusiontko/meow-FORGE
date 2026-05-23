@@ -1,8 +1,8 @@
 {
-  "mojdzwiek": {
+  "meow": {
     "sounds": [
       {
-        "name": "meowing:meow4",
+        "name": "meowing:meow",
         "stream": true
       }
     ]

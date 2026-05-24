@@ -1,1 +1,1 @@
-Pod przyciskiem "P" na klawaiturze sie miałczy. Mod na 1.20.1 FORGE
+W ustawiach ustaw przyscisk (domyślny "m") pod miałczenie. Mod na 1.20.1 FORGE

@@ -21,7 +21,7 @@ public class MeowingClient {
             "key.meowing.play_sound",
             KeyConflictContext.IN_GAME,
             InputConstants.Type.KEYSYM,
-            GLFW.GLFW_KEY_P,
+            GLFW.GLFW_KEY_UNKNOWN,
             "category.meowing.controls"
     );
 
